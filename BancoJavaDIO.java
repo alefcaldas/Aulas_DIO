@@ -49,8 +49,3 @@ public class BancoJavaDIO {
 
     }
 }
-            System.out.println("so um momento que estamos processando a transferencia" +
-                    " parece que seu saldo é 0 então a transferencia não pôde ser realizada");
-        }
-    }
-}
